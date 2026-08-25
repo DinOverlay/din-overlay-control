@@ -1,6 +1,6 @@
 {
-    "version_actual": "1.1.1",
-    "bloqueado": true,
+    "version_actual": "1.0.0",
+    "bloqueado": false,
     "mensaje_bloqueo": "El programa ha sido desactivado temporalmente por mantenimiento.",
-    "url_descarga": "https://github.com/tu-usuario/tu-repositorio/releases"
+    "url_descarga": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.1.1/DinOverlay_code.exe"
 }
